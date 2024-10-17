@@ -3,7 +3,7 @@ include <BOSL2/std.scad>
 $fn = 64;
 
 
-baseWidth = 14;
+baseWidth = 13.5;
 baseDepth = 5;
 baseHeight = 60;
 
